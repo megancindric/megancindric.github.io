@@ -1,0 +1,11 @@
+{
+    "config": "js",
+    "compilerOptions": {
+        "source-map": true,
+        "html-template": "index.html"
+    },
+    "files":
+    [
+        "src/Main.as"
+    ]
+}
